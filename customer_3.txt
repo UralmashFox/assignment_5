@@ -1,0 +1,5 @@
+apples, 3
+baguette, 1
+sausage, 3
+ice creame, 1
+chocolate, 8

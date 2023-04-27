@@ -1,0 +1,5 @@
+beef, 2
+coffee, 3
+tomato, 7
+cheese, 1
+baguette, 1

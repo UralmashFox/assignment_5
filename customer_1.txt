@@ -1,0 +1,5 @@
+apples, 3
+beef, 2
+flour, 1
+tea, 1
+ice creame, 1
