@@ -15,6 +15,6 @@ water, 29
 chocolate, 7
 tea, 19
 coffee, 19
-ice creame, 1
+ice cream, 1
 chewing gum, 6
 
